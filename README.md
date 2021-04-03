@@ -1,2 +1,2 @@
 # labs-estadao
-Estadão
+Quiz maker para o jornal Estadão
